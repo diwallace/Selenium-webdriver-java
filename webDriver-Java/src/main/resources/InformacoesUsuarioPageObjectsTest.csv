@@ -1,0 +1,5 @@
+testAdicionarUmaInformacaoAdicionalDoUsuario,login,senha,tipo,contato,mensagem
+                                            ,julio0001,123456,Phone,+551199993333,Your contact has been added!
+                                            ,julio0001,123456,E-mail,test@test.com.br,Your contact has been added!
+testRemoverUmContatoDeUmUsuario,login,senha,contato,mensagem
+                                ,julio0001,123456,+551199993333
